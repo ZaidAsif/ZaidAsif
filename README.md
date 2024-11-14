@@ -3,7 +3,7 @@
 
 - 💻 I’m currently learning **Next.js as I advance my web development journey.**
 
-- 💬 Ask me about **HTML, CSS, Tailwind, JavaScript/TypeScript, and Next.js!**
+- 💬 Ask me about **HTML, CSS, Tailwind, JavaScript/TypeScript, Firebase, and Next.js!**
 
 - 📫 How to reach me **zaid.asif.9082@gmail.com**
 
