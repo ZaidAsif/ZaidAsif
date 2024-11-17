@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **zaid.asif.9082@gmail.com**
 
-- ⚡ Fun fact **I’m always a passionate learner**
+- ⚡ Fun fact **I’m also learning React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
