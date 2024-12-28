@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, Myself Zaid Asif</h1>
 <h3 align="center">Almost a frontend developer from Pakistan, learning Web Development with Passion</h3>
 
-- 💻 I’m currently learning **Next.js as I advance my web development journey.**
+- 💻 I’m currently learning **Backend as I advance my web development journey.**
 
 - 💬 Ask me about **HTML, CSS, Tailwind, JavaScript/TypeScript, Firebase, and Next.js!**
 
