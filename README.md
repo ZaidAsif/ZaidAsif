@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, Myself Zaid Asif</h1>
-<h3 align="center">Almost a frontend developer from Pakistan, learning Web Development with Passion</h3>
+<h3 align="center">A MERN Stack Dev from Pakistan, growing in Web Development</h3>
 
 - 💻 I’m currently learning **Backend as I advance my web development journey.**
 
-- 💬 Ask me about **HTML, CSS, Tailwind, JavaScript/TypeScript, Firebase, and Next.js!**
+- 💬 Ask me about **HTML, CSS, Tailwind, JavaScript/TypeScript, Firebase, Express.js and Next.js!**
 
 - 📫 How to reach me **zaid.asif.9082@gmail.com**
 
